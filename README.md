@@ -7,7 +7,7 @@ This project showcases my skills, achievements, and projects, brought to life wi
 
 ## 🖥️ Live Demo
 
-**Check out the live portfolio here:** [🔗 View Portfolio](https://vikram-gujar.netlify.app)
+**Check out the live portfolio here:** [🔗 View Portfolio](rahulportfolioprofile.netlify.app)
 
 ---
 
@@ -64,7 +64,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/VikramGujar/My-Portfolio
+   git clone https://github.com/rahuldeokate35
    ```
 2. Navigate to the project directory:
    ```bash
@@ -129,8 +129,8 @@ Contributions are always welcome! 🙌
 
 Feel free to reach out to me:
 
-- **Email:** [vikramgujar300@gmail.com](mailto:vikramgujar300@gmail.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vikram-gujar-vg)
+- **Email:** [rahuldeokate35@gmail.com](mailto:rahuldeokate35@gmail.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rahul-devkate-41814033a)
 
 ---
 
