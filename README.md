@@ -7,7 +7,7 @@ This project showcases my skills, achievements, and projects, brought to life wi
 
 ## 🖥️ Live Demo
 
-**Check out the live portfolio here:** [🔗 View Portfolio](rahulportfolioprofile.netlify.app)
+**Check out the live portfolio here:** [🔗 View Portfolio](https://rahulportfolioprofile.netlify.app)
 
 ---
 
