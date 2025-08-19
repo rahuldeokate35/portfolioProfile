@@ -64,7 +64,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rahuldeokate35
+   git clone https://github.com/rahuldeokate35/portfolioProfile
    ```
 2. Navigate to the project directory:
    ```bash
